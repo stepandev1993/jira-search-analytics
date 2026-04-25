@@ -29,5 +29,7 @@ The extension requests host access to Jira Issue Navigator pages:
 This is required only to read issue metadata from your Jira search results and render local visualizations.
 
 ## Contact
-If you have privacy questions, contact the publisher through the Chrome Web Store listing contact information.
+
+If you have privacy questions or support requests, contact:
+Email: stepan.usa.acc1993@gmail.com
 
